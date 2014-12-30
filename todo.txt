@@ -1,0 +1,2 @@
+- find a way to get African GDG event information from http://developers.google.com/groups (e.g: Associated group info at the bottom)
+- ... and get the mapping also from there
